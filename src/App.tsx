@@ -9,6 +9,7 @@ import Index from "./pages/Index";
 import BlogPost from "./pages/BlogPost";
 import Categories from "./pages/Categories";
 import NotFound from "./pages/NotFound";
+import Footer from './components/Footer';
 
 const queryClient = new QueryClient();
 
