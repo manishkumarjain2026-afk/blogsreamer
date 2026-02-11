@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-lg">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4">
         <Link to="/" className="text-xl font-black tracking-tight text-primary">
-          Blog<span className="text-foreground">theSpot</span>
+          Blog<span className="text-foreground">streamer</span>
         </Link>
 
         {/* Desktop links */}
